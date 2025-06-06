@@ -6,4 +6,4 @@ Este trabalho tem como objetivo desenvolver indicadores educacionais para os 92 
 
 Ao longo do projeto, foram definidos diversos indicadores, organizados por temas estratégicos como infraestrutura, acessibilidade, recursos pedagógicos, conectividade e sustentabilidade. Exemplos de indicadores incluem: porcentagem de escolas com acesso à internet para uso dos alunos; número de matrículas no ensino médio; proporção de escolas com lousa digital, alimentação escolar, ou que desenvolvem ações de educação ambiental; entre outros. Cada indicador é calculado a partir de variáveis específicas do Censo Escolar, e a metodologia adotada garante a padronização e a comparabilidade entre os municípios.
 
-O projeto está sendo desenvolvido por Paulo Henrique, Patrick Dias, Paulo Zaza, João Neves, Marcelo Rocha e Thais Rabello.
+O projeto está sendo desenvolvido por Paulo Henrique, Patrick Dias, Paulo Zava, João Neves, Marcelo Rocha e Thais Rabello.
